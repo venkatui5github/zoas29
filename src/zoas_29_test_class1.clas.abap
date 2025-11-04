@@ -1,0 +1,17 @@
+CLASS zoas_29_test_class1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  methods get_data.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zoas_29_test_class1 IMPLEMENTATION.
+method get_data.
+ENDMETHOD.
+ENDCLASS.
